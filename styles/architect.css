@@ -112,3 +112,15 @@ main {
     padding-left: 70px;
     padding-right: 70px;
 }
+
+.teams-title{
+    font-size: 2.8rem;
+}
+.teams-title .quick-list{
+    color: #727272;
+    font-weight: 500;
+}
+.teams-title .text-features{
+    color: #FF900E;
+    font-weight: 700px;
+}
